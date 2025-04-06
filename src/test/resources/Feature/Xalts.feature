@@ -14,6 +14,7 @@ Feature: User Registration, Login, and Node Setup in Xalts Portal
     And I click on Sign In link
     And I enter the generated email and password
     And I click on Sign In button
+    Then I click on Sign out button
 
   Scenario: Submit request to onboard nodes with wallets
     Given I launch the browser and navigate to Xalts home page
@@ -30,6 +31,7 @@ Feature: User Registration, Login, and Node Setup in Xalts Portal
     And Add wallet address "0x88fa61d2faA13aad8Fbd5B030372B4A159BbbDFb"
     And Click Next after adding wallets
     And Submit the onboarding request
+    Then I click on Sign out button
 
 
 
@@ -49,3 +51,4 @@ Feature: User Registration, Login, and Node Setup in Xalts Portal
     Then Click Add Node button
     Then Click the final Next button
     Then Click the Submit button to create Blockchain
+    Then I click on Sign out button
