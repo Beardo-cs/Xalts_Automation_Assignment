@@ -118,14 +118,14 @@ Ensure you have:
 
 6. View Cucumber HTML Report:
    ```bash
-   open target/cucumber-reports/index.html
+   open target/cucumber-reports.html
    ```
 
 ---
 
 ## 🔗 Resources
 
-- 📽️ **Screen Recording**: [View Demo](https://docs.google.com/spreadsheets/d/1Qiv7xOBhHj_oBHAnStd6EaYRxzM0WWM3n_7Siyn5chA/edit#gid=1145001436)
+- 📽️ **Screen Recording**: [View Demo](https://drive.google.com/file/d/1JIO5C0dKumgsjTDMoESebXCAtoLKwJ1H/view?usp=sharing)
 - 📋 **Test Case Document**: [View Test Cases](https://docs.google.com/spreadsheets/d/1Qiv7xOBhHj_oBHAnStd6EaYRxzM0WWM3n_7Siyn5chA/edit#gid=1145001436h)
 
 ---
